@@ -1,0 +1,1 @@
+# GrqphQl-Queries-time-reducing
